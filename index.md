@@ -1,3 +1,4 @@
 # CHEAT SHEETS INDEX
 
-TODO: Link to Cheat Sheet sub-pages here
+* [VIM](https://vim.rtorr.com/)
+* [MAC Keyboard Shortcuts](mac-keyboard-shortcuts.md)
