@@ -9,4 +9,4 @@ Cmd + Shift + 3 | Copy the screen to the Desktop as a PNG image file
 Cmd + Alt + Esc | Force quit an application
 Cmd + Alt + Eject | Put Mac to sleep
 Cmd + Alt + Power Button | Put MacBook to sleep (no Eject key)
-Ctrl + Cmd + F | Switch application to full screen mode (if supported)
+Cmd + Ctrl + F | Switch application to full screen mode (if supported)
